@@ -32,6 +32,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Main Site
+      href: https://bbaovanc.com
 
 workflowSchedule:
   graphs: "1 1 1 1 *"
