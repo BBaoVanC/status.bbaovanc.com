@@ -24,7 +24,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: bbaovanc status
+  name: bbaovanc's status
   introTitle: "Status of all my websites."
   #introMessage: ""
   navbar:
