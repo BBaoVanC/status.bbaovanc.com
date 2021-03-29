@@ -6,6 +6,8 @@ repo: status.bbaovanc.com # Your GitHub repository name
 sites:
   - name: Main Site
     url: https://bbaovanc.com
+  - name: Blog
+    url: https://bbaovanc.com/blog/
   - name: Searx
     url: https://searx.bbaovanc.com
   - name: Gitea
