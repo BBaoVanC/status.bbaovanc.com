@@ -9,7 +9,7 @@ sites:
   - name: Blog
     url: https://bbaovanc.com/blog/
   - name: Searx
-    url: https://searx.bbaovanc.com
+    url: https://search.bbaovanc.com
   - name: Gitea
     url: https://git.bbaovanc.com
   - name: Images
