@@ -8,6 +8,8 @@ sites:
     url: https://bbaovanc.com
   - name: Blog
     url: https://bbaovanc.com/blog/
+  - name: Mail
+    url: https://mail.bbaovanc.com
   - name: Searx
     url: https://search.bbaovanc.com
   - name: Gitea
