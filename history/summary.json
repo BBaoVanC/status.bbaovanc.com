@@ -27,19 +27,19 @@
     "url": "https://mail.bbaovanc.com",
     "icon": "https://favicons.githubusercontent.com/mail.bbaovanc.com",
     "slug": "mail",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 806,
-    "timeDay": 794,
-    "timeWeek": 817,
-    "timeMonth": 806,
-    "timeYear": 806,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 802,
+    "timeDay": 758,
+    "timeWeek": 809,
+    "timeMonth": 802,
+    "timeYear": 802,
     "dailyMinutesDown": {
-      "2021-05-25": 0
+      "2021-05-25": 5
     }
   },
   {
