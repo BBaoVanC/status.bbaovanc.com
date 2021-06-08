@@ -4,6 +4,8 @@ repo: status.bbaovanc.com # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: VPS
+    url: 45.76.232.8
   - name: Main Site
     url: https://bbaovanc.com
   - name: Mail
